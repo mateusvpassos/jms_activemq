@@ -1,2 +1,2 @@
-# jms_activemq
+# ActiveMQ - JMS Java
  
